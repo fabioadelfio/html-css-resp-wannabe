@@ -128,9 +128,6 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-* {
-    overflow: auto;
-}
 
 /* TABLET */
 
@@ -151,11 +148,16 @@ img {
     
     .lessons .col {
         width: 100%;
-        padding-bottom: 10px;
+        padding-bottom: 50px;
     }
 
     .steps .col {
         width: 100%;
-        padding-bottom: 10px;
+        padding-bottom: 50px;
+    }
+
+    .why-us .col {
+        width: 100%;
+        padding-bottom: 50px;
     }
 }
